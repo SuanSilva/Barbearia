@@ -1,0 +1,140 @@
+    body {
+        background-color: #FFFFFF;
+    }
+    
+    header {
+        background-color: #6e8ca0;
+        padding: 20px 0;
+    }
+    
+    .caixa {
+        width: 940px;
+        position: relative;
+        margin: 0 auto;
+    }
+    
+    nav {
+        position: absolute;
+        top: 110px;
+        right: 0px;
+    }
+    
+    nav li {
+        display: inline;
+        margin: 0 0 0 15px;
+    }
+    
+    nav a {
+        text-transform: uppercase;
+        color: black;
+        font-weight: bold;
+        font-size: 22px;
+        text-decoration: none;
+    }
+    
+    nav a:hover {
+        color: rgb(197, 101, 5);
+        text-decoration: underline;
+    }
+    
+    .produtos {
+        width: 940px;
+        margin: 0 auto;
+        padding: 50px 0;
+    }
+    
+    .produtos li {
+        display: inline-block;
+        text-align: center;
+        width: 30%;
+        vertical-align: top;
+        margin: 0 1.5%;
+        padding: 30px 20px;
+        box-sizing: border-box;
+        border: solid 2px black;
+        border-radius: 10px;
+    }
+    
+    .titulo-principal {
+        font-family: 'Krona One', sans-serif;
+        padding-left: 20px;
+        font-style: normal;
+        font-weight: normal;
+        text-align: center;
+    }
+    
+    .titulocentralizado1 {
+        font-family: 'Krona One', sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        text-align: center;
+    }
+    
+    .titulocentralizado {
+        text-align: left;
+        font-family: 'Krona One', sans-serif;
+    }
+    
+    p {
+        font-family: 'Krona One', sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        line-height: 25px;
+        text-align: center;
+    }
+    
+    .sobre {
+        background-color: #ffffff;
+        margin: 0;
+        padding: 50px;
+        border: 0;
+        font-size: 100%;
+        font: inherit;
+        vertical-align: baseline;
+    }
+    
+    #missao {
+        font-family: 'Krona One', sans-serif;
+        font-size: 20px;
+        padding: 10px;
+        border-color: 1px black;
+    }
+    
+    em strong {
+        color: red;
+    }
+    
+    .itens {
+        font-style: italic;
+        font-family: 'New Rocker', cursive;
+    }
+    
+    .beneficios {
+        background-color: #FFFFFF;
+        padding: 20px;
+    }
+    
+    .imagembeneficios {
+        width: 15%;
+        height: auto;
+    }
+    
+    .ul {
+        display: inline-block;
+        vertical-align: top;
+        width: 20%;
+        margin-right: 15%;
+    }
+    
+    footer {
+        text-align: center;
+        background: url("bg.jpg");
+        padding: 0px 0;
+    }
+    
+    .Copyrigth {
+        color: #FFFFFF;
+        font-size: 13px;
+        margin: 20px 0 0;
+    }
